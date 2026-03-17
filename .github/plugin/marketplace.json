@@ -14,6 +14,12 @@
             "name": "ghcopilot-hub-minimal",
             "source": "/plugins/ghcopilot-hub-minimal",
             "version": "0.1.0"
+        },
+        {
+            "description": "Plugin de prueba para validar la creación de plugins para GitHub Copilot CLI.",
+            "name": "prueba",
+            "source": "/plugins/prueba",
+            "version": "0.1.0"
         }
     ]
 }
