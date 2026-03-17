@@ -1,7 +1,6 @@
 {
     "metadata": {
         "description": "jmgomezdev plugins",
-        "pluginRoot": "./plugins",
         "version": "1.0.0"
     },
     "name": "jmgomezdev-plugins",
@@ -13,7 +12,7 @@
         {
             "description": "Minimal GitHub Copilot CLI plugin extracted from ghcopilot-hub to validate native plugin packaging.",
             "name": "ghcopilot-hub-minimal",
-            "source": "ghcopilot-hub-minimal",
+            "source": "/plugins/ghcopilot-hub-minimal",
             "version": "0.1.0"
         }
     ]
