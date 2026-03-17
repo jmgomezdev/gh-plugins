@@ -1,0 +1,20 @@
+{
+    "author": {
+        "name": "Jose Manuel Gomez Perez",
+        "url": "https://github.com/jmgomezdev"
+    },
+    "description": "Plugin de prueba para validar la creación de plugins para GitHub Copilot CLI.",
+    "keywords": [
+        "copilot",
+        "github-copilot",
+        "copilot-cli",
+        "plugin",
+        "skills"
+    ],
+    "license": "Apache-2.0",
+    "name": "prueba",
+    "skills": [
+        "skills/"
+    ],
+    "version": "0.1.0"
+}
