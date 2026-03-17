@@ -1,12 +1,10 @@
 {
-  "name": "ghcopilot-hub-minimal",
-  "description": "Minimal GitHub Copilot CLI plugin extracted from ghcopilot-hub to validate native plugin packaging.",
-  "version": "0.1.0",
+  "agents": "agents/",
   "author": {
     "name": "Jose Manuel Gomez Perez",
     "url": "https://github.com/jmgomezdev"
   },
-  "license": "Apache-2.0",
+  "description": "Minimal GitHub Copilot CLI plugin extracted from ghcopilot-hub to validate native plugin packaging.",
   "keywords": [
     "copilot",
     "github-copilot",
@@ -15,8 +13,10 @@
     "agents",
     "skills"
   ],
-  "agents": "agents/",
+  "license": "Apache-2.0",
+  "name": "ghcopilot-hub-minimal",
   "skills": [
     "skills/"
-  ]
+  ],
+  "version": "0.1.0"
 }
