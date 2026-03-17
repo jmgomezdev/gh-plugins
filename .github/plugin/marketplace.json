@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "description": "jmgomezdev plugins",
+        "version": "1.0.0"
+    },
+    "name": "jmgomezdev-plugins",
+    "owner": {
+        "email": "jmgomez.web@gmail.com",
+        "name": "jmgomezdev"
+    },
+    "plugins": [
+        {
+            "description": "Minimal GitHub Copilot CLI plugin extracted from ghcopilot-hub to validate native plugin packaging.",
+            "name": "ghcopilot-hub-minimal",
+            "skills": [
+                "./skills/workiq"
+            ],
+            "source": "./plugins/ghcopilot-hub-minimal",
+            "version": "0.1.0"
+        }
+    ]
+}
